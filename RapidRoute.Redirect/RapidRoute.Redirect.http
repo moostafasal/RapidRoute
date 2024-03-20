@@ -1,0 +1,6 @@
+@RapidRoute.Redirect_HostAddress = http://localhost:5031
+
+GET {{RapidRoute.Redirect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
